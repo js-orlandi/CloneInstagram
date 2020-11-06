@@ -10,13 +10,7 @@ CSS
 
 ### foto da pagina Clone
 
-
-
-
-
-![image-20201106185845188](C:\Users\Juliano\AppData\Roaming\Typora\typora-user-images\image-20201106185845188.png)
-
-
+![imagem1](C:\Users\Juliano\Desktop\CloneInstagram\img\imagem1.png)
 
 #### créditos:
 
