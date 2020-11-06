@@ -10,7 +10,7 @@ CSS
 
 ### foto da pagina Clone
 
-![imagem1](C:\Users\Juliano\Desktop\CloneInstagram\img\imagem1.png)
+![](https://github.com/js-orlandi/CloneInstagram/blob/master/img/imagem1.png)
 
 #### créditos:
 
